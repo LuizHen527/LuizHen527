@@ -4,5 +4,5 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"I make bugs"</b></h4>
+  <h4 align="center"><b>"Não está funcionando…"</b></h4>
 </p>
