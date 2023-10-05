@@ -54,6 +54,17 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHen527&show_icons=true&count_private=true&ring_color=16FF00&title_color=16FF00&icon_color=16FF00&rank-circle_color=16FF00&text_color=ffffff&bg_color=000000"/> 
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHen527&layout=donut&title_color=16FF00&text_color=ffffff&bg_color=000000"/> 
 </div>
+
+### :zany_face: Piadinhas de programador
+
+Atualize para gerar outra
+<div align="center">
+<a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</a>
+</div>
+
+
   
 ###	:book: Guestbook
 
