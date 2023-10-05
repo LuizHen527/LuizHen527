@@ -24,16 +24,33 @@
 Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 2023. Gosto de filmes, series e livros, mas meu passatempo favorito são os video-games.<br> 
 <br/> <b>TOP 3 jogos favoritos:</b> <br/> <b>1 - Life is Strange :hourglass_flowing_sand:</b></br> <b>2 - Resident Evil 4 :european_castle:</b> <br/> <b>3 - Spelunky :motorway:</b> <br> 
 <br/>
-Tem muitos outros jogos que eu gosto, mas não dá pra colocar todos. 
-<br> 
-<br/>
+
+<img align="right" height="270px" alt="GIF" src="https://github.com/LuizHen527/LuizHen527/blob/main/assets/anonymous-pepe.gif" />
 
 
-#### No momento estou:
+### No momento estou:
 - 🔭 Fazendo projetos do curso de web dev do [SENAI](https://github.com/senai-desenvolvimento)
 - 🌱 Aprendendo ReactJS
 - 👯 Procurando conhecer outros devs
 - 💬 Disposto a trocar uma ideia sobre qualquer coisa
-#### Outras informações:
+### Outras informações:
 - 📬 Como entrar em contato: [Clica aqui](https://www.linkedin.com/in/luiz-henrique-16571926a/)
 - ⚡ Fun fact: Um dos meus filmes favoritos é Toy Story <sup>Não clique na frase do buzzlighter</sup>
+
+### Linguagens e ferramentas:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: Minhas estatisticas:
+<a href="https://github.com/LuizHen527">
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHen527&show_icons=true&count_private=true&ring_color=16FF00&title_color=16FF00&icon_color=16FF00&rank-circle_color=16FF00&text_color=ffffff&bg_color=000000"/> 
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHen527&layout=donut&title_color=16FF00&text_color=ffffff&bg_color=000000"/> 
+</div>
