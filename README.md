@@ -6,3 +6,10 @@
 <p>
   <h4 align="center"><b>"Não está funcionando…"</b></h4>
 </p>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/LuizHen527/count.svg" />
+</p>
+
+
+
