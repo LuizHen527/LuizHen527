@@ -64,8 +64,6 @@ Atualize para gerar outra
 </a>
 </div>
 
-
-  
 ###	:book: Guestbook
 
 Deixe um comentario no meu livro de visitas. Pode comentar o que quiser. É só clicar no botão abaixo:
@@ -75,3 +73,9 @@ Deixe um comentario no meu livro de visitas. Pode comentar o que quiser. É só 
     <img src="https://gist.github.com/LuizHen527/455dc3337fa0c0646373bc10cac0a705/raw/7d0a8cef00f9e221e304e7c43e2990848dc5b288/signguestbook.gif" alt="Clique aqui para escrever no meu Guestbook!">
   </a>
 </p>
+
+---
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&pause=1000&color=245953&center=true&width=435&lines=Obrigado+pela+visita+!;Aproveita+e+segue+o+pai+LOL" alt="Typing SVG" /></a>
+</div>
