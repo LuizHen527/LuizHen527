@@ -50,7 +50,7 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 ---
 
 ### :fire: Minhas estatisticas:
-<a href="https://github.com/LuizHen527">
+<a href="https://github.com/LuizHen527"></a>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHen527&show_icons=true&count_private=true&ring_color=16FF00&title_color=16FF00&icon_color=16FF00&rank-circle_color=16FF00&text_color=ffffff&bg_color=000000"/> 
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHen527&layout=donut&title_color=16FF00&text_color=ffffff&bg_color=000000"/> 
@@ -82,7 +82,7 @@ Deixe um comentario no meu livro de visitas. Pode comentar o que quiser. É só 
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=20852F&center=true&width=435&lines=Obrigado+pela+visita!;+Segue+ai+(+%5E_%5E)%EF%BC%8F" alt="Typing SVG" /></a>
+<h2>Obrigado pela visita!</h2>
 </div>
 
 <div align="center">
