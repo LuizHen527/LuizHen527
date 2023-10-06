@@ -36,7 +36,7 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 ### :bulb: Outras informações:
 - 📬 Como entrar em contato: [Clica aqui](https://www.linkedin.com/in/luiz-henrique-16571926a/)
 - ⚡ Fun fact: Um dos meus filmes favoritos é Toy Story <sup>Clique na frase do buzzlighter no inicio do perfil</sup>
-- ⚡ Fun fact 2: [Meu perfil no True Achievements](https://www.trueachievements.com/gamer/luiz+henrique79) 
+- :video_game: [Meu perfil no True Achievements](https://www.trueachievements.com/gamer/luiz+henrique79) 
 
 ### :hammer_and_wrench: Linguagens e ferramentas:
 <div>
