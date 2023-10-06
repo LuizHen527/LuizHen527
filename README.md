@@ -30,12 +30,12 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 
 ### 	:stopwatch: No momento estou:
 - 🔭 Fazendo projetos do curso de web dev do [SENAI](https://github.com/senai-desenvolvimento)
-- 🌱 Aprendendo ReactJS
+- 🌱 Aprendendo JavaScript
 - 💬 Disposto a trocar uma ideia sobre qualquer coisa
 
 ### :bulb: Outras informações:
 - 📬 Como entrar em contato: [Clica aqui](https://www.linkedin.com/in/luiz-henrique-16571926a/)
-- ⚡ Fun fact: Um dos meus filmes favoritos é Toy Story <sup>Clique na frase do buzzlighter no inicio do perfil</sup>
+- ⚡ Fun fact: Algo acontece se clicar na frase do Buzz no inicio do readme
 - :video_game: [Meu perfil no True Achievements](https://www.trueachievements.com/gamer/luiz+henrique79) 
 
 ### :hammer_and_wrench: Linguagens e ferramentas:
