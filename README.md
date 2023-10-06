@@ -7,9 +7,9 @@
   <h4 align="center" ><a href="https://www.youtube.com/watch?v=gxf8tXpFKhw">"Ao infinito… E além!"</a></h4>
 </p>
 
-<!---<p align="center">
+<p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/LuizHen527/count.svg" />
-</p>--->
+</p>
 
 <p align="center">
 <br>
