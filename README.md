@@ -82,8 +82,9 @@ Deixe um comentario no meu livro de visitas. Pode comentar o que quiser. É só 
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&pause=1000&color=245953&center=true&width=435&lines=Obrigado+pela+visita+!;Aproveita+e+me+segue" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=20852F&center=true&width=435&lines=Obrigado+pela+visita!;+Segue+ai+(+%5E_%5E)%EF%BC%8F" alt="Typing SVG" /></a>
 </div>
+
 <div align="center">
 <img height="270px" alt="GIF" src="https://github.com/LuizHen527/LuizHen527/blob/main/assets/coracao.gif" />
 </div>
