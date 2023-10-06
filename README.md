@@ -60,7 +60,7 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 
 ### :zany_face: Piadinhas de programador
 
-Atualize para gerar outra
+É dificil entender algumas. Atualize para gerar outra
 <div align="center">
 <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
