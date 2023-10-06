@@ -28,16 +28,17 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 <img align="right" height="270px" alt="GIF" src="https://github.com/LuizHen527/LuizHen527/blob/main/assets/anonymous-pepe.gif" />
 
 
-### No momento estou:
+### 	:stopwatch: No momento estou:
 - 🔭 Fazendo projetos do curso de web dev do [SENAI](https://github.com/senai-desenvolvimento)
 - 🌱 Aprendendo ReactJS
-- 👯 Procurando conhecer outros devs
 - 💬 Disposto a trocar uma ideia sobre qualquer coisa
-### Outras informações:
+
+### :bulb: Outras informações:
 - 📬 Como entrar em contato: [Clica aqui](https://www.linkedin.com/in/luiz-henrique-16571926a/)
 - ⚡ Fun fact: Um dos meus filmes favoritos é Toy Story <sup>Não clique na frase do buzzlighter</sup>
+- ⚡ Fun fact 2: [Meu perfil no True Achievements](https://www.trueachievements.com/gamer/luiz+henrique79) 
 
-### Linguagens e ferramentas:
+### :hammer_and_wrench: Linguagens e ferramentas:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -55,6 +56,8 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHen527&layout=donut&title_color=16FF00&text_color=ffffff&bg_color=000000"/> 
 </div>
 
+---
+
 ### :zany_face: Piadinhas de programador
 
 Atualize para gerar outra
@@ -63,6 +66,8 @@ Atualize para gerar outra
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </a>
 </div>
+
+---
 
 ###	:book: Guestbook
 
