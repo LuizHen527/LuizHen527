@@ -25,7 +25,7 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 <br/> <b>TOP 3 jogos favoritos:</b> <br/> <b>1 - Life is Strange :hourglass_flowing_sand:</b></br> <b>2 - Resident Evil 4 :european_castle:</b> <br/> <b>3 - Spelunky :motorway:</b> <br> 
 <br/>
 
-<img align="right" height="270px" alt="GIF" src="https://github.com/LuizHen527/LuizHen527/blob/main/assets/anonymous-pepe.gif" />
+<img align="right" height="350px" alt="GIF" src="https://github.com/LuizHen527/LuizHen527/blob/main/assets/anonymous-pepe.gif" />
 
 
 ### 	:stopwatch: No momento estou:
