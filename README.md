@@ -77,7 +77,7 @@ Deixe um comentario no meu livro de visitas. Pode comentar o que quiser. É só 
 
 <p align="center">
   <a href="https://gist.github.com/LuizHen527/455dc3337fa0c0646373bc10cac0a705">
-    <img src="https://gist.github.com/LuizHen527/455dc3337fa0c0646373bc10cac0a705/raw/7d0a8cef00f9e221e304e7c43e2990848dc5b288/signguestbook.gif" alt="Clique aqui para escrever no meu Guestbook!">
+    <img src="https://web.archive.org/web/20091022095157/http://geocities.com/tufantazy/ultimavoluntad.html" alt="Clique aqui para escrever no meu Guestbook!">
   </a>
 </p>
 
