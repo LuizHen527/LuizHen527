@@ -73,7 +73,7 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 
 ###	:book: Guestbook
 
-Deixe um comentario no meu livro de visitas. Pode comentar o que quiser. É só clicar no botão abaixo:
+Deixe um comentario no meu livro de visitas. Pode comentar o que quiser. É só clicar no icone abaixo:
 
 <p align="center">
   <a href="https://gist.github.com/LuizHen527/455dc3337fa0c0646373bc10cac0a705">
@@ -85,8 +85,4 @@ Deixe um comentario no meu livro de visitas. Pode comentar o que quiser. É só 
 
 <div align="center">
 <h2>Obrigado pela visita!</h2>
-</div>
-
-<div align="center">
-<img height="270px" alt="GIF" src="https://github.com/LuizHen527/LuizHen527/blob/main/assets/coracao.gif" />
 </div>
