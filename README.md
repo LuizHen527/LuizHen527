@@ -28,8 +28,8 @@ Tenho 21 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 
 ### 	:stopwatch: No momento estou:
 - 🔭 Fazendo projetos do curso de web dev do [SENAI](https://github.com/senai-desenvolvimento)
-- 🌱 Aprendendo JavaScript
-- 💬 Disposto a trocar uma ideia sobre qualquer coisa
+- 🌱 Aprendendo a desenvolver apps com React Native
+- 💬 Pode mandar uma mensagem no meu Linkedin, se quiser.
 
 ### :bulb: Outras informações:
 - 📬 Como entrar em contato: [Clica aqui](https://www.linkedin.com/in/luiz-henrique-16571926a/)
@@ -43,6 +43,8 @@ Tenho 21 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
