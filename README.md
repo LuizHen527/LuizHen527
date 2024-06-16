@@ -33,7 +33,6 @@ Tenho 21 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 
 ### :bulb: Outras informações:
 - 📬 Como entrar em contato: [Clica aqui](https://www.linkedin.com/in/luiz-henrique-16571926a/)
-- ⚡ Fun fact: Eu não sei andar de bicicleta, ainda.
 - :video_game: [O que estou jogando no momento.](https://www.trueachievements.com/gamer/luiz+henrique79/games) 
 
 ### :hammer_and_wrench: Linguagens e ferramentas:
