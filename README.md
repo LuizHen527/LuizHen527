@@ -21,9 +21,7 @@
 
 <h2 align="center"> 🤔 Sobre mim 👨‍💻 </h2>
 
-Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 2023. Gosto de filmes, series e livros, mas meu passatempo favorito são os video-games.<br> 
-<br/> <b>TOP 3 jogos favoritos:</b> <br/> <b>1 - Life is Strange :hourglass_flowing_sand:</b></br> <b>2 - Resident Evil 4 (2005) :european_castle:</b> <br/> <b>3 - Alan Wake (2010) :flashlight:</b> <br> 
-<br/>
+Tenho 21 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 2023. Gosto de filmes, series e livros, mas meu passatempo favorito são os video-games.
 
 <img align="right" height="350px" alt="GIF" src="https://github.com/LuizHen527/LuizHen527/blob/main/assets/anonymous-pepe.gif" />
 
