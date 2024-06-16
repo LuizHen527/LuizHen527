@@ -4,7 +4,7 @@
 
 
 <p>
-  <h4 align="center" ><a href="https://www.youtube.com/watch?v=gxf8tXpFKhw">"Ao infinito… E além!"</a></h4>
+  <h4 align="center" >"Ao infinito… E além!"</a></h4>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Tenho 20 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 
 ### :zany_face: Piadinhas de programador
 
-É dificil entender algumas. Atualize para gerar outra
+É dificil entender algumas. Atualize a pagina para gerar outra
 <div align="center">
 <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
