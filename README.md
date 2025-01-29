@@ -27,8 +27,8 @@ Tenho 21 anos, moro em São Paulo - Brasil. Comecei a programar no inicio de 202
 
 
 ### 	:stopwatch: No momento estou:
-- 🔭 Fazendo projetos do curso de web dev do [SENAI](https://github.com/senai-desenvolvimento)
-- 🌱 Aprendendo gerenciamento de projeto com Azure DevOps
+- 🔭 Procurando um emprego;
+- 🌱 Aprendendo gerenciamento de projeto com Azure DevOps.
 
 ### :bulb: Outras informações:
 - 📬 Como entrar em contato: [Clica aqui](https://www.linkedin.com/in/luiz-henrique-16571926a/)
